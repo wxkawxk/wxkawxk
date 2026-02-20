@@ -3,11 +3,11 @@
   <h1>Hi there, I'm Xiaokang Wei 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+目前AI创业者;之前做了7、8年的字节跳动+%26+美团招聘总负责人;ALL+IN+AI+改变招聘行业&font=Fira+Code&center=true&width=600&height=50&color=33CCFF&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+目前AI创业者;之前做了7、8年的字节跳动+%26+美团招聘总负责人;ALL+IN+AI+改变蓝领求职者的艰难现状&font=Fira+Code&center=true&width=600&height=50&color=33CCFF&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    专注用 AI 改变<b>蓝领招聘</b>行业，帮助全球几十亿服务员、工人、骑手等能找到合适的自己的工作，少被骗，多赚钱。
+    专注用 AI 改变<b>蓝领招聘</b>行业，帮助中国、全球最多的一群人找到合适的工作，少被骗，多赚钱。
   </p>
 
   <p align="center">
