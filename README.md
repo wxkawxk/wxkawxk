@@ -1,45 +1,38 @@
-<div align="center">
-  <h1>Hi there, I'm Xiaokang Wei (魏小康) 👋</h1>
+# 魏小康 👋👋👋
 
-  ### 🚀 AI 创业者 | 前字节 & 美团招聘总负责人 
+### 🚀 AI 创业者 | 前字节 & 美团招聘总负责人 
 
-  目前专注用 AI 改变**蓝领招聘**行业，希望能帮中国5亿蓝领群体少被骗几次，多赚点钱，尽快找到合适的工作。
+- 目前在用 AI 改变**蓝领招聘**行业，希望能帮中国5亿兄弟姐妹少被骗几次，多赚点钱，尽快找到合适的工作。
+- 技术出身，做过8年 **字节** 和 **美团** 的招聘总负责人，招聘行业最懂AI的，AI行业最懂招聘的。
+- 家有两只猫。
 
-  <p align="center">
-    <a href="mailto:wxkawxk@139.com">
-      <img src="https://img.shields.io/badge/Email-wxkawxk%40139.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/wxkawxk">
-      <img src="https://img.shields.io/badge/GitHub-wxkawxk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <img src="https://img.shields.io/badge/Location-北京-0099ff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  </p>
-</div>
+[![Email](https://img.shields.io/badge/Email-xiaokangwei83%40gmail.com-2b3137?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wxkawxk@139.com)
+[![GitHub](https://img.shields.io/badge/GitHub-wxkawxk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wxkawxk)
+![Location](https://img.shields.io/badge/Location-北京-2b3137?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
 ### 🛠 业务进展 (Business Update)
+
 - **PMF & ROI**：业务模式已跑通，ROI 已经打正，正在做放量的实验。
 
-### ⚡ 组织进展 (Team Update)
-- **核心理念**：我们坚信“超级个体 + AI”是未来组织的唯一形态，认为应该全员全栈（包含HR、商务），提倡用最好的模型干活、服务用户，而不是浪费时间微调。
-- **长在挑战**： 正在努力实现**Token/日/人 > 1 亿**。
+### ⚡ 组织进展 
+
+- **核心理念**：
+  - 我们坚信“超级个体 + AI”是未来组织的唯一形态；
+  - 没有产品/研发/运营/增长的区别，研发同时干产品，增长要能自己搞开发，尽量减少内部协作；
+  - 提倡用最好的模型干活、服务用户，而不是浪费时间微调。不要有算法和工程的区别。
+
+- **最近在挑战**：
+  - 努力实现全员**日Token消耗/人 > 1 亿**。
 
 ### 🤝 寻找伙伴 (Hiring)
-- **全栈工程师+产品经理**：能自己调研用户需求，自己上线
-- **硬指标**：希望你日 Token 消耗 > 5KW，最好是目标过亿。
 
+- **“全栈工程师+产品经理/运营/增长”**：
+  - 或者是一名全栈+产品经理，能自己调研需求，自己开发出来上线；
+  - 或者是一名全栈+运营or 增长，有啥运营or 增长工作，主要靠AI而不是人干了。
 
-### 📖 关于我 (About Me)
-- 曾担任 **字节跳动** 和 **美团** 的招聘总负责人，深度理解人才价值与匹配。
-- 坚持 **方案先行** 原则，追求极致的开发效率与工程质量。
-- 家里有两只猫。
+- **硬指标**：
+  - 希望你日Token消耗 > 5KW，最好是过亿。
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wxkawxk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxkawxk&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=每一个个体都是超级个体，全栈即未来。&author=魏小康&theme=radical" alt="Quote" />
-</div>
